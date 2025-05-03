@@ -1,48 +1,65 @@
-**☕📉Excel-Project-Coffee-Shop-Sales-Analysis**
+☕📉 Coffee Shop Sales Dashboard – Excel Project
+Overview
+This project analyzes coffee shop sales data using Microsoft Excel to uncover trends and actionable insights that can improve business decisions. It includes dynamic dashboards built with Power Pivot, Power Query, and Pivot Tables.
 
+📌 Key Features
+📊 Sales by Day/Hour
+Identifies peak sales times to support better staffing and inventory planning.
 
-**Overview** 
+📅 Monthly Revenue
+Tracks total monthly revenue to evaluate sales performance over time.
 
-This project uses Excel to analyze coffee shop sales data to uncover trends and insights that can improve business decisions. Key analyses include sales patterns by day and hour, monthly revenue, best-selling products, and performance across store locations.
+📍 Location-Based Analysis
+Compares sales across different store locations to identify high- and low-performing branches.
 
-**Key Features**
+💵 Average Order Value
+Calculates the average value per order and per customer.
 
-📊**Sales by Day/Hour**: Identifies peak sales times for better staffing and resource management.
+🍵 Best-Selling Products
+Highlights the top 5 products based on both quantity sold and revenue.
 
-📅**Monthly Revenue**: Total monthly sales revenue calculated to track performance.
+🍰 Category Analysis
+Breaks down sales by product category (e.g., Coffee, Tea, Bakery, Pastries).
 
-📍**Location-based Analysis**: Compares sales across different store locations.
+🧰 Tools & Technologies
+Microsoft Excel
 
-💵**Average Order Value**: Calculates the average price per order and person. 
+Power Pivot
 
-🍵**Best-Selling Products**: Highlights 5 top products by quantity and revenue.
+Power Query
 
-🍰**Category Analysis**: Evaluates sales by product category (e.g. Bakery, Coffee, Tea, and Pastries).
+Pivot Tables
 
-**Tools & Technologies**
+Charts & Data Visualizations
 
-**Microsoft Excel**: Data cleaning, analysis, and visualization using Power Pivot, Power Query, and charts.
-**Interactive Dashboards**: Dynamic reports for in-depth data exploration.
+Interactive Dashboards
 
-**Insights & Recommendations**
+Slicers and dynamic visuals for in-depth data exploration
 
-**Insights**:
+📊 Insights
+🔹 Peak Sales Time: Most orders occur between 8 AM and 11 AM.
 
-**Peak Sales Time**: Orders peak between 8 AM and 11 AM, indicating strong morning demand.
+🔹 Top Products: A small set of items drives a large portion of revenue.
 
-**Top Products Drive Revenue**: A few products contribute most to total sales.
+🔹 High-Performing Stores: Some locations significantly outperform others.
 
-**High Footfall Locations**: Some stores significantly outperform others in sales.
+🔹 Regular Size Popularity: Regular-sized drinks are the most ordered.
 
-**Regular Size Preferred**: The majority of customers prefer Regular-sized drinks.
+🔹 Weekday Sales Stability: Monday and Friday show slightly higher activity; weekends are slower.
 
-**Steady Weekday Sales**: Monday and Friday see slightly higher orders, while weekends are lower.
+✅ Recommendations
+Boost Off-Peak Sales
+Implement discounts or loyalty rewards during slower hours.
 
-**Recommendations:**
+Optimize Inventory
+Prioritize stock for best-selling products to avoid shortages.
 
-1. **Boost Non-Peak Sales**: Introduce discounts or loyalty rewards during off-peak hours.
-2. **Optimize Inventory**: Maintain strong stock levels for top-selling products.
-3. **Enhance Low-Performing Stores**: Implement localized promotions and targeted ads.
-4. **Encourage Large Size Sales**: Offer bundled deals or upsell incentives.
-5. **Increase Weekend Sales**: Launch special weekend-exclusive offers to attract more customers.
-   
+Enhance Low-Performing Stores
+Run targeted promotions and localized marketing campaigns.
+
+Encourage Upsizing
+Offer bundle deals or upsell incentives to promote larger sizes.
+
+Drive Weekend Traffic
+Launch weekend-exclusive offers to increase customer visits.
+
