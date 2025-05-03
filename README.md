@@ -20,12 +20,14 @@ This project uses Excel to analyze coffee shop sales data to uncover trends and 
 🍰**Category Analysis**: Evaluates sales by product category (e.g. Bakery, Coffee, Tea, and Pastries).
 
 **Tools & Technologies**
+
 **Microsoft Excel**: Data cleaning, analysis, and visualization using Power Pivot, Power Query, and charts.
 **Interactive Dashboards**: Dynamic reports for in-depth data exploration.
 
 **Insights & Recommendations**
 
 **Insights**:
+
 **Peak Sales Time**: Orders peak between 8 AM and 11 AM, indicating strong morning demand.
 **Top Products Drive Revenue**: A few products contribute most to total sales.
 **High Footfall Locations**: Some stores significantly outperform others in sales.
