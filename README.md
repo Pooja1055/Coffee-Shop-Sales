@@ -1,4 +1,8 @@
+**☕📉Excel-Project-Coffee-Shop-Sales-Analysis**
+
+
 **Overview** 
+
 This project uses Excel to analyze coffee shop sales data to uncover trends and insights that can improve business decisions. Key analyses include sales patterns by day and hour, monthly revenue, best-selling products, and performance across store locations.
 
 **Key Features**
